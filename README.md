@@ -88,4 +88,4 @@ smtp_mail_from = airflow@example.com
 
 ## 📎 License
 
-License — free to use and modify.
+MIT License — free to use and modify.
